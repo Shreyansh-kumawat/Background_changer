@@ -1,0 +1,58 @@
+
+
+/* backg*/
+.dodge{
+    
+    color: rgb(255, 255, 255);
+    background-image: url("dodge.jpg");
+    background-size: cover;
+    
+    
+}
+
+.tech{
+    
+    color:rgb(246, 255, 0);
+    background-image: url("codes.jpg") ;
+    background-size: cover;
+
+}
+
+.musical{
+    
+    color: rgb(211, 205, 255);
+    background-image: url("guitar.jpg");
+    background-size: cover;
+}
+
+.stocks{
+    color: rgb(255, 255, 255);
+    background-image: url("Astocks.jpg");
+    background-size: cover;
+}
+  
+/* texxts */
+
+  button {
+    height: 60px;
+    width: 160px;
+    background-color: rgb(242, 255, 159);
+    border: none;
+    border-radius: 28%;
+    box-shadow: 3px 4px 3px black;
+position: relative;
+left:25%
+  }
+
+#hd{
+  position: relative;
+  left: 25%;
+}
+
+#qq{
+  height: 200px;
+  width:330px;
+  background-color: rgba(0, 0, 0, 0.049);
+  position: fixed;
+left:30%;
+}
